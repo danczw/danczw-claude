@@ -38,7 +38,7 @@
       "name": "danczw-misc",
       "source": "./plugins/danczw-misc",
       "description": "Miscellaneous agents, skills and hooks: prose editing, message drafting, em-dash lint.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "productivity"
     }
   ]
