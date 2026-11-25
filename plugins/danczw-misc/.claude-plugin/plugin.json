@@ -1,6 +1,6 @@
 {
   "name": "danczw-misc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Miscellaneous agents, skills and hooks: prose editing, message drafting, em-dash lint.",
   "author": {
     "name": "dancz"
